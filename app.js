@@ -20,6 +20,7 @@ const moduloEncriptador = (() => {
         secuencia = 0;
         k1 = 0;
         k2 = 0;
+        //ola
     }
 
     /**
